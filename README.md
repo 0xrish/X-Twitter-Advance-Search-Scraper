@@ -2,6 +2,8 @@
 # 🚀 X (Twitter) Advanced Search Tweet Scraper 𝕏
 
 > **The Ultimate Twitter/X Search & Scraper for Developers, Researchers, AI Teams, Marketers, Journalists, Growth Teams, and Businesses.**
+>
+> Actor: https://apify.com/mikolabs/x-twitter-advanced-search-tweet-scraper
 
 Search, scrape, analyze, and export public Twitter/X data without relying on the official Twitter API. Built for speed, flexibility, and scale with **60+ advanced filters**, structured outputs, and seamless integrations.
 
